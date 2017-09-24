@@ -1,3 +1,3 @@
 module.exports = {
-  pathPrefix: `andrictham.com/gatsbyjs-hello-world`
+  "pathPrefix": "/gatsbyjs-hello-world"
 }
